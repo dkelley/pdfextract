@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFFormExtract", "PDFFormExtract\PDFFormExtract.csproj", "{47226E89-6839-4DB4-86C3-69F21C01384E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47226E89-6839-4DB4-86C3-69F21C01384E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47226E89-6839-4DB4-86C3-69F21C01384E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47226E89-6839-4DB4-86C3-69F21C01384E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47226E89-6839-4DB4-86C3-69F21C01384E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F794D1AB-08F7-41EA-92E1-53D4337315FB}
+	EndGlobalSection
+EndGlobal
